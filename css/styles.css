@@ -47,6 +47,7 @@ hr {
   color: #ebebeb;
   margin-top: 100px;
   width: 5%;
+  clear: left;
 }
 
 p {
